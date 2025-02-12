@@ -19,7 +19,7 @@ function Navbar() {
             <a href="#">Products</a>
           </li>
           <li>
-            <a href="#">Custome Stories</a>
+            <a href='#'>Custome Stories</a>
           </li>
           <li>
             <a href="#">About</a>
