@@ -46,7 +46,7 @@ const Uses = () => {
           <motion.div 
            variants={SlideLeft(0.8)}
            whileInView="animate"
-           initial="initial">
+           initial='initial'>
             <img src={Img3} alt="" className="w-full rounded-3xl " />
             <p className="text-gray-400 mt-4">Symptoms</p>
           </motion.div>

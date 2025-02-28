@@ -9,7 +9,7 @@ const Footer = () => {
         {/* brand info */}
 
         <div className="">
-          <img src={Logo} alt="" className="w-40" />
+          <img src={Logo} alt='' className='w-40' />
           <p className="text-gray-400 md:max-w-[400px]">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos saepe
             repellendus eligendi obcaecati?
@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
         {/* social icons */}
 
-        <div className="flex spac-x-6 text-3xl gap-4">
+        <div className='flex spac-x-6 text-3xl gap-4'>
           <FaFacebook className="hover:text-primary duration-200" />
           <FaInstagram className="hover:text-primary duration-200" />
           <FaLinkedin className="hover:text-primary duration-200" />
